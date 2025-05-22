@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Cookies",
+    "imageUrl": ""
+  },
+  {
+    "id": 2,
+    "title": "Pastries",
+    "imageUrl": ""
+  },
+  {
+    "id": 3,
+    "title": "Confections",
+    "imageUrl": ""
+  },
+  {
+    "id": 4,
+    "title": "Global",
+    "subtitle": "Taste the World",
+    "imageUrl": ""
+  },
+  {
+    "id": 5,
+    "title": "Ingredients",
+    "subtitle": "Unlock Secrets",
+    "imageUrl": ""
+  }
+]
